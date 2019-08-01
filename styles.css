@@ -1,16 +1,35 @@
 
-header {
-
-  font-size: 30px;
-  color: #A93226;
-  font-weight: 450;
-  text-align: center;
+body{
   font-family: Geneva, Tahoma, Verdana, sans-serif;
 }
 
 
-p {
+header {
+  font-size: 30px;
+  color: #2471A3;
+  font-weight: 450;
+  text-align: center;
+  text-shadow: 2px 2px 20px #117A65;
+  letter-spacing: 10px
 
-font-family: Geneva, Tahoma, Verdana, sans-serif;
+
+}
+
+.footer-description{
+  text-align: left;
+  font-style: italic;
+}
+
+h2
+{
+  font-size: 30px;
+  color: #117A65;
+}
+
+.scnd-text{
+  color: #273746;
+  vertical-align:top;
+  text-shadow: none;
+  letter-spacing: normal;
 
 }
