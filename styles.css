@@ -26,10 +26,30 @@ h2
   color: #117A65;
 }
 
+p {
+  padding: 10px;
+  border: 1px  solid  #117A65;
+
+
+}
+
 .scnd-text{
   color: #273746;
   vertical-align:top;
   text-shadow: none;
   letter-spacing: normal;
 
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin:  5px;
+  padding: 5px;
+  display: flex;
+}
+
+ul li {
+  margin: 20px;
 }
