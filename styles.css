@@ -1,16 +1,19 @@
 
 body{
+
+  background-image: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F221125%2Fpexels-photo-221125.jpeg%3Fcs%3Dsrgb%26dl%3Dagriculture-arable-clouds-221125.jpg%26fm%3Djpg&f=1");
   font-family: Geneva, Tahoma, Verdana, sans-serif;
 }
 
 
 header {
   font-size: 30px;
-  color: #2471A3;
+  color: #D35400;
   font-weight: 450;
   text-align: center;
-  text-shadow: 2px 2px 20px #117A65;
+  text-shadow: 5px 0px 0px #A54607;
   letter-spacing: 10px
+
 
 
 }
@@ -23,33 +26,46 @@ header {
 h2
 {
   font-size: 30px;
-  color: #117A65;
+  color: #D35400;
+  text-shadow: 2px 0px 0px #A54607;
 }
 
 p {
-  padding: 10px;
-  border: 1px  solid  #117A65;
+  padding: 5px;
+  border: 2px  solid  #273746;
+
+
 
 
 }
 
 .scnd-text{
   color: #273746;
+  font-size: 20px;
+  text-shadow: 1px 0px 0px #172736;
   vertical-align:top;
-  text-shadow: none;
   letter-spacing: normal;
 
 }
 
+a {
 
-
-ul {
-  list-style-type: none;
-  margin:  5px;
-  padding: 5px;
-  display: flex;
+  text-decoration: none;
 }
 
+nav {
+  margin:  5px;
+  padding: 5px;
+
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+
+
+}
 ul li {
   margin: 20px;
 }
