@@ -1,6 +1,6 @@
 
 body{
-
+  text-align: center;
   background-image: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F221125%2Fpexels-photo-221125.jpeg%3Fcs%3Dsrgb%26dl%3Dagriculture-arable-clouds-221125.jpg%26fm%3Djpg&f=1");
   font-family: Geneva, Tahoma, Verdana, sans-serif;
 }
@@ -19,7 +19,8 @@ header {
 }
 
 .footer-description{
-  text-align: left;
+  border: 0px;
+  text-align: right;
   font-style: italic;
 }
 
@@ -61,11 +62,13 @@ nav {
 }
 
 ul {
-  display: flex;
-  list-style-type: none;
-
+  margin: 0 auto;
+  display: none;
+  list-style-type: none
 
 }
+
 ul li {
+
   margin: 20px;
 }
