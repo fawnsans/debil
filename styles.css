@@ -34,15 +34,12 @@ h2{
 p {
   font-family:
   align: center;
-  text-shadow: 0.5px 0px 5px #A54607;
+  text-shadow: 0.5px 0px 1px #A54607;
   display:inline-table;
 
   white-space:pre-line;
   border: 2px  dashed  #A54607;
   padding: 5px;
-
-
-
 
 }
 
@@ -55,6 +52,12 @@ p {
 
 }
 
+h3{
+
+  font-size: 30px;
+  color: #D35400;
+  text-shadow: 2px 0px 0px #A54607;
+}
 a {
 
   text-decoration: none;
